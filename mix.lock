@@ -1,0 +1,13 @@
+%{"con_cache": {:hex, :con_cache, "0.6.1"},
+  "cowboy": {:hex, :cowboy, "1.0.0"},
+  "cowlib": {:hex, :cowlib, "1.0.1"},
+  "dotenv": {:hex, :dotenv, "0.0.4"},
+  "exactor": {:hex, :exactor, "1.0.0"},
+  "httpotion": {:hex, :httpotion, "2.0.0"},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "d2e369ff42666c3574b8b7ec26f69027895c4d94", [tag: "v4.1.1"]},
+  "meck": {:hex, :meck, "0.8.2"},
+  "mock": {:hex, :mock, "0.1.0"},
+  "plug": {:hex, :plug, "0.9.0"},
+  "poison": {:git, "git://github.com/devinus/poison.git", "6fbfc6b1afc76d36884a6d7223d227f3940913b7", []},
+  "ranch": {:hex, :ranch, "1.0.0"},
+  "shouldi": {:hex, :shouldi, "0.2.1"}}
