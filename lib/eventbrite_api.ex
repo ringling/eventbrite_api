@@ -1,0 +1,2 @@
+defmodule EventbriteApi do
+end
